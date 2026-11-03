@@ -1,3 +1,5 @@
+[![Password Security Toolkit Tests](https://github.com/christina2323/Password-Security-Toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/christina2323/Password-Security-Toolkit/actions/workflows/tests.yml)
+
 # Password Security Toolkit
 
 A command-line cybersecurity project in Python (standard library only) that helps users
